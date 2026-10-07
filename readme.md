@@ -1,11 +1,24 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdtZzV1b3VvYmV6bXQ3bW1kZ3R3eHBya3F3eHBya3F3eHBya3F3/giphy.gif" width="300" style="border-radius: 20px; border: 2px solid #8a2be2;" />
+<!-- LOGO ANIME PURE CODE - UNGU GLOWING -->
+<pre style="color:#8a2be2; text-shadow: 0 0 10px #8a2be2; font-size:12px; line-height:12px;">
+⠀⠀⢀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣴⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
+⢰⣿⣿⣿⣿⣿⣷⠀⠀⠀💜⠀⠀
+⢸⣿⣿⡿⠋⠁⠈⠙⢿⣿⡇⠀Gravecode0x3
+⠀⠙⢿⣿⣶⣄⡀⠀⢀⣾⡿⠃⠀⠀ANIME SAD ERA
+⠀⠀⠀⠉⠻⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀
+</pre>
 
-### 🎧PLAYLIST
+<h3 style="color:#8a2be2;">🎧 MY SAD PLAYLIST - Another Life Era</h3>
 
-<a href="https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away+Lyrics">
+<img src="banner.gif" width="700" style="border-radius:20px; border:2px solid #8a2be2;" />
+
+<br><br>
+
+<!-- PLAYLIST 5 LAGU -->
+<a href="https://www.youtube.com/watch?v=Ahha3Cqe_fk">
 <img src="https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <br>
@@ -20,10 +33,18 @@
 <a href="https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome+Lyrics">
 <img src="https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+<br>
+<a href="https://www.youtube.com/watch?v=bPJSsAr2iu0">
+<img src="https://img.shields.io/badge/MELANIE_MARTINEZ-Playdate-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
+<br><br>
 
+<!-- LOGO ANIME ICON CODE -->
+<img src="https://img.shields.io/badge/ANIME-SAD_GIRL_IN_PURPLE_FIELD-8a2be2?style=for-the-badge&logo=crunchyroll&logoColor=white" />
 
 </div>
+
 
 </div>
 
