@@ -1,18 +1,27 @@
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdtZzV1b3VvYmV6bXQ3bW1kZ3R3eHBya3F3eHBya3F3eHBya3F3/giphy.gif" width="300" style="border-radius: 20px; border: 2px solid #8a2be2;" />
+
 ### 🎧 MY SAD PLAYLIST
 
-[[▶ Katy Perry - The One That Got Away](https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Ahha3Cqe_fk)
+<a href="https://www.youtube.com/results?search_query=Katy+Perry+The+One+That+Got+Away+Lyrics">
+<img src="https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <br>
-[[▶ pupsies - misery](https://img.shields.io/badge/PUPSIES-misery-4B0082?style=for-the-badge&logo=spotify)](https://open.spotify.com/search/pupsies%20misery)
+<a href="https://open.spotify.com/search/pupsies%20misery">
+<img src="https://img.shields.io/badge/PUPSIES-misery-4B0082?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 <br>
-[[▶ Janina - Terranova](https://img.shields.io/badge/JANINA-Terranova-9400D3?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Janina+Terranova+Lyrics)
+<a href="https://www.youtube.com/results?search_query=Janina+Terranova+Lyrics">
+<img src="https://img.shields.io/badge/JANINA-Terranova-9400D3?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <br>
-[[▶ Sidney Gish - Imposter Syndrome](https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome+Lyrics)
+<a href="https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome+Lyrics">
+<img src="https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
----
-*💜 Gravecode0x3 vibes*
+</div>
 
 </div>
 
