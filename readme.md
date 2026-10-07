@@ -10,11 +10,11 @@
 
 <div align="center">
 
-ARSENAL LEVEL 1 - CORE<img src="https://skillicons.dev/icons?i=python,lua,js,ts,bash,html,css,react,nextjs,nodejs,php,cpp,c,go,rust" />
+CORE<img src="https://skillicons.dev/icons?i=python,lua,js,ts,bash,html,css,react,nextjs,nodejs,php,cpp,c,go,rust" />
 <img src="https://skillicons.dev/icons?i=kali,arch,linux,ubuntu,debian,windows,docker,git,github,vscode,idea,vim,neovim" />
 <img src="https://skillicons.dev/icons?i=discord,cloudflare,mysql,mongodb,postgres,redis,supabase,firebase,vercel,netlify" />
 
-ARSENAL LEVEL 2 - HACKING TOOLS<p>
+<p>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
 <img src="https://img.shields.io/badge/Parrot_OS-02D6C5?style=for-the-badge&logo=parrotsec&logoColor=white">
@@ -25,7 +25,7 @@ ARSENAL LEVEL 2 - HACKING TOOLS<p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
 
-ARSENAL LEVEL 3 - LANGUAGES RAME<p>
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=00A2FF">
@@ -49,7 +49,7 @@ ARSENAL LEVEL 3 - LANGUAGES RAME<p>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-FAKE DOMINATION BADGES<p>
+<p>
 <img src="https://img.shields.io/badge/Total_Commits-2,000,000-9D00FF?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Systems_Breached-1,847-9D00FF?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Code_Lines-9.9M-9D00FF?style=for-the-badge&logo=python&logoColor=white">
