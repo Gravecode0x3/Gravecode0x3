@@ -10,7 +10,7 @@
 
 <div align="center">
 
-CORE<img src="https://skillicons.dev/icons?i=python,lua,js,ts,bash,html,css,react,nextjs,nodejs,php,cpp,c,go,rust" />
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,bash,html,css,react,nextjs,nodejs,php,cpp,c,go,rust" />
 <img src="https://skillicons.dev/icons?i=kali,arch,linux,ubuntu,debian,windows,docker,git,github,vscode,idea,vim,neovim" />
 <img src="https://skillicons.dev/icons?i=discord,cloudflare,mysql,mongodb,postgres,redis,supabase,firebase,vercel,netlify" />
 
