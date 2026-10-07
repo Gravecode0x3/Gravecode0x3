@@ -1,5 +1,20 @@
 
+<div align="center">
 
+### 🎧 MY SAD PLAYLIST
+
+[[▶ Katy Perry - The One That Got Away](https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Ahha3Cqe_fk)
+<br>
+[[▶ pupsies - misery](https://img.shields.io/badge/PUPSIES-misery-4B0082?style=for-the-badge&logo=spotify)](https://open.spotify.com/search/pupsies%20misery)
+<br>
+[[▶ Janina - Terranova](https://img.shields.io/badge/JANINA-Terranova-9400D3?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Janina+Terranova+Lyrics)
+<br>
+[[▶ Sidney Gish - Imposter Syndrome](https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome+Lyrics)
+
+---
+*💜 Gravecode0x3 vibes*
+
+</div>
 
 
 <div align="center">
