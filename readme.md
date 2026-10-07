@@ -1,32 +1,21 @@
 
 <div align="center">
 
-<!-- LOGO ANIME VIDEO LU SENDIRI -->
-<video src="https://raw.githubusercontent.com/Gravecode0x3/gambardll/main/phrolova-violet-flower-field-wuthering-waves-moewalls-com.mp4" width="700" autoplay loop muted playsinline style="border-radius:20px; border:2px solid #8a2be2; box-shadow: 0 0 30px #8a2be2;"></video>
+<img src="https://raw.githubusercontent.com/Gravecode0x3/gambardll/main/ezgif-2393e95b20f8f42b.gif" width="700" style="border-radius:20px; border:2px solid #8a2be2; box-shadow: 0 0 25px #8a2be2;" />
 
 ### 💜 Gravecode0x3 - Purple Field Era
 
 ### 🎧 MY SAD PLAYLIST
 
-<a href="https://www.youtube.com/watch?v=Ahha3Cqe_fk">
-<img src="https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/watch?v=Ahha3Cqe_fk"><img src="https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <br>
-<a href="https://open.spotify.com/search/pupsies%20misery">
-<img src="https://img.shields.io/badge/PUPSIES-misery-4B0082?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
+<a href="https://open.spotify.com/search/pupsies%20misery"><img src="https://img.shields.io/badge/PUPSIES-misery-4B0082?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <br>
-<a href="https://www.youtube.com/results?search_query=Janina+Terranova+Lyrics">
-<img src="https://img.shields.io/badge/JANINA-Terranova-9400D3?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/results?search_query=Janina+Terranova"><img src="https://img.shields.io/badge/JANINA-Terranova-9400D3?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <br>
-<a href="https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome+Lyrics">
-<img src="https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/results?search_query=Sidney+Gish+Imposter+Syndrome"><img src="https://img.shields.io/badge/SIDNEY_GISH-Imposter_Syndrome-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <br>
-<a href="https://www.youtube.com/watch?v=bPJSsAr2iu0">
-<img src="https://img.shields.io/badge/MELANIE_MARTINEZ-Playdate-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+<a href="https://www.youtube.com/watch?v=bPJSsAr2iu0"><img src="https://img.shields.io/badge/MELANIE_MARTINEZ-Playdate-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </div>
 
