@@ -1,23 +1,13 @@
 
 <div align="center">
 
-<!-- LOGO ANIME PURE CODE - UNGU GLOWING -->
-<pre style="color:#8a2be2; text-shadow: 0 0 10px #8a2be2; font-size:12px; line-height:12px;">
-⠀⠀⢀⣀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣴⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
-⢰⣿⣿⣿⣿⣿⣷⠀⠀⠀💜⠀⠀
-⢸⣿⣿⡿⠋⠁⠈⠙⢿⣿⡇⠀Gravecode0x3
-⠀⠙⢿⣿⣶⣄⡀⠀⢀⣾⡿⠃⠀⠀ANIME SAD ERA
-⠀⠀⠀⠉⠻⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀
-</pre>
+<!-- LOGO ANIME VIDEO LU SENDIRI -->
+<video src="https://raw.githubusercontent.com/Gravecode0x3/gambardll/main/phrolova-violet-flower-field-wuthering-waves-moewalls-com.mp4" width="700" autoplay loop muted playsinline style="border-radius:20px; border:2px solid #8a2be2; box-shadow: 0 0 30px #8a2be2;"></video>
 
-<h3 style="color:#8a2be2;">🎧 MY SAD PLAYLIST - Another Life Era</h3>
+### 💜 Gravecode0x3 - Purple Field Era
 
-<img src="banner.gif" width="700" style="border-radius:20px; border:2px solid #8a2be2;" />
+### 🎧 MY SAD PLAYLIST
 
-<br><br>
-
-<!-- PLAYLIST 5 LAGU -->
 <a href="https://www.youtube.com/watch?v=Ahha3Cqe_fk">
 <img src="https://img.shields.io/badge/KATY_PERRY-The_One_That_Got_Away-8a2be2?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -38,13 +28,7 @@
 <img src="https://img.shields.io/badge/MELANIE_MARTINEZ-Playdate-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<br><br>
-
-<!-- LOGO ANIME ICON CODE -->
-<img src="https://img.shields.io/badge/ANIME-SAD_GIRL_IN_PURPLE_FIELD-8a2be2?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-
 </div>
-
 
 </div>
 
