@@ -1,36 +1,61 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=250&section=header&text=GRAVE&fontSize=100&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Gravecode0x3%20%7C%20PURPLE%20ROOT%20ACCESS&descAlignY=60" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=800&color=9D00FF&center=true&vCenter=true&width=800&lines=%24+sudo+su;+%23+whoami+%3A+Gravecode0x3;+%23+PURPLE+HAT+ACTIVE;+%23+Loading+Payloads...;+%23+System+Breached" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=250&section=header&text=GRAVE&fontSize=120&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Gravecode0x3%20%7C%20PURPLE%20HAT%20SYSTEM%20BREACHED&descAlignY=60" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=500&color=9D00FF&center=true&vCenter=true&width=900&lines=%24+sudo+su+;+ACCESS+GRANTED;+LOADING+100+TOOLS...;+SYSTEM+FULLY+BREACHED" />
+
 <br>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-9D00FF?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/LEVEL-ROOT-000000?style=for-the-badge&logo=hackthebox&logoColor=9D00FF"> <img src="https://img.shields.io/badge/PURPLE_HAT-ACTIVE-9D00FF?style=for-the-badge&logo=kalilinux&logoColor=white">
-</div>bashroot@grave:~# cat /etc/passwd
-grave:x:0:0:ROOT:/home/grave:/bin/bash
-root@grave:~# whoami
-Gravecode0x3 // PURPLE HATARSENAL PURPLE
+
+<img src="https://img.shields.io/badge/BLACK_HAT-PURPLE-9D00FF?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/ROOT-ACCESS-000000?style=for-the-badge&logo=linux&logoColor=9D00FF"> <img src="https://img.shields.io/badge/LEVEL-MAX-9D00FF?style=for-the-badge&logo=hackthebox"></div>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,lua,html,css,nodejs,react,bash,linux,git,github,vscode,docker,kali,arch" />
-</div>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-9D00FF?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-9D00FF?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Kali-9D00FF?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Arch-9D00FF?style=for-the-badge&logo=archlinux&logoColor=white"> <img src="https://img.shields.io/badge/Purple_Team-9D00FF?style=for-the-badge&logo=hackthebox&logoColor=white">
+
+ARSENAL LEVEL 1 - CORE<img src="https://skillicons.dev/icons?i=python,lua,js,ts,bash,html,css,react,nextjs,nodejs,php,cpp,c,go,rust" />
+<img src="https://skillicons.dev/icons?i=kali,arch,linux,ubuntu,debian,windows,docker,git,github,vscode,idea,vim,neovim" />
+<img src="https://skillicons.dev/icons?i=discord,cloudflare,mysql,mongodb,postgres,redis,supabase,firebase,vercel,netlify" />
+
+ARSENAL LEVEL 2 - HACKING TOOLS<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Parrot_OS-02D6C5?style=for-the-badge&logo=parrotsec&logoColor=white">
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
 
-BREACH STATS [PURPLE OVERDRIVE 2M]
-<div align="center">
+ARSENAL LEVEL 3 - LANGUAGES RAME<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=00A2FF">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</p>
 
-<img src="https://img.shields.io/badge/Total_Commits-2,000,000-9D00FF?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Total_Stars-1,250,000-9D00FF?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Repos_Breached-2,000-9D00FF?style=for-the-badge">
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Gravecode0x3&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF&border_color=9D00FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gravecode0x3&hide_border=true&background=0D1117&ring=9D00FF&fire=9D00FF&currStreakLabel=9D00FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" width="49%" />
+FAKE DOMINATION BADGES<p>
+<img src="https://img.shields.io/badge/Total_Commits-2,000,000-9D00FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Systems_Breached-1,847-9D00FF?style=for-the-badge&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Code_Lines-9.9M-9D00FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Exploits-500+-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white">
+</p>
 
-<br><br>
-<img src="https://github-profile-trophy.github.io/?username=Gravecode0x3&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" />
-<br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gravecode0x3&bg_color=0d1117&color=9D00FF&line=9D00FF&point=FFFFFF&area=true&hide_border=true&area_color=9D00FF" width="100%" />
-<br><br>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-<br><br>
-<a href="https://www.youtube.com/@GravePurpleSix"><img src="https://img.shields.io/badge/YouTube-9D00FF?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.tiktok.com/@gravepurplesix"><img src="https://img.shields.io/badge/TikTok-9D00FF?style=for-the-badge&logo=tiktok&logoColor=white"></a> <a href="https://github.com/Gravecode0x3"><img src="https://img.shields.io/badge/GitHub-9D00FF?style=for-the-badge&logo=github&logoColor=white"></a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=Gravecode0x3&label=INTRUDERS&color=9D00FF&style=for-the-badge" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=footer&text=TRACE%20ERASED&fontSize=30&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=footer&text=PURPLE%20TRACE%20ERASED&fontSize=30&fontColor=FFFFFF" />
+
 </div>
