@@ -1,1 +1,28 @@
+--salin dan paste di delta executor kamu dan jangan lupa subscribe
+--Yt ; grave 
+local url = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/Fish_It.lua"
 
+local ok, source = pcall(function()
+    return game:HttpGet(url)
+end)
+
+if not ok then
+    warn("[Lynx Hub] Gagal mengambil script: " .. tostring(source))
+    return
+end
+
+if type(source) ~= "string" or source == "" or string.find(source, "404: Not Found", 1, true) then
+    warn("[Lynx Hub] Sumber script tidak ditemukan: " .. url)
+    return
+end
+
+local chunk, compileError = loadstring(source)
+if type(chunk) ~= "function" then
+    warn("[Lynx Hub] Gagal compile: " .. tostring(compileError))
+    return
+end
+
+local ran, runtimeError = pcall(chunk)
+if not ran then
+    warn("[Lynx Hub] Script gagal saat dijalankan: " .. tostring(runtimeError))
+end
